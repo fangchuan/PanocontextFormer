@@ -8,5 +8,6 @@ Data[TODO]:
 
 Training:
 - Run the following command to train the model:
-```python train_detection_layoutmesh_0112_cube_phy.py
+```bash
+python train_detection_layoutmesh_0112_cube_phy.py
 ```
